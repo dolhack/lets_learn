@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-09T22:18:29.701Z",
+ "fetchedAt": "2026-10-10T22:26:40.184Z",
  "year": 2027,
  "startYear": 2027,
  "program": 40,
@@ -3582,7 +3582,7 @@
      "type": "סופי-הרצאה+מעבדה",
      "primary": true,
      "lecturer": "מר קוך גדעון",
-     "full": false,
+     "full": true,
      "semester": "ב",
      "linked": [
       "274014203/1"
@@ -3660,7 +3660,7 @@
      "type": "מעבדה",
      "primary": false,
      "lecturer": "מר קוך גדעון",
-     "full": false,
+     "full": true,
      "semester": "ב",
      "linked": [],
      "meetings": [

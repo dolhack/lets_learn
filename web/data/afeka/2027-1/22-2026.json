@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-09T22:18:29.701Z",
+ "fetchedAt": "2026-10-10T22:26:40.184Z",
  "year": 2027,
  "startYear": 2026,
  "program": 22,
@@ -2634,7 +2634,7 @@
      "type": "סופי-הרצאה+תרגול",
      "primary": true,
      "lecturer": "ד\"ר בוסני רם",
-     "full": false,
+     "full": true,
      "semester": "א",
      "linked": [
       "272014402/1"
@@ -2712,7 +2712,7 @@
      "type": "תרגול",
      "primary": false,
      "lecturer": "ד\"ר בוסני רם",
-     "full": false,
+     "full": true,
      "semester": "א",
      "linked": [],
      "meetings": [
@@ -7288,7 +7288,7 @@
      "type": "סופי-הרצאה+תרגול",
      "primary": true,
      "lecturer": "ד\"ר עצמון ישעיהו",
-     "full": true,
+     "full": false,
      "semester": "א",
      "linked": [
       "279090406/1"
@@ -9931,7 +9931,7 @@
      "type": "סופי-הרצאה+תרגול",
      "primary": true,
      "lecturer": "ד\"ר אמיר ענת",
-     "full": false,
+     "full": true,
      "semester": "א",
      "linked": [
       "279091703/1"
@@ -10147,7 +10147,7 @@
      "type": "תרגול",
      "primary": false,
      "lecturer": "מר ויינר בועז",
-     "full": false,
+     "full": true,
      "semester": "א",
      "linked": [],
      "meetings": [

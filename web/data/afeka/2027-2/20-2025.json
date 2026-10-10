@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-09T22:18:29.701Z",
+ "fetchedAt": "2026-10-10T22:26:40.184Z",
  "year": 2027,
  "startYear": 2025,
  "program": 20,
@@ -8571,7 +8571,7 @@
      "type": "סופי-הרצאה+תרגול",
      "primary": true,
      "lecturer": "ד\"ר סעדון תפארת",
-     "full": false,
+     "full": true,
      "semester": "ב",
      "linked": [
       "279091502/1"
@@ -8769,7 +8769,7 @@
      "type": "תרגול",
      "primary": false,
      "lecturer": "",
-     "full": false,
+     "full": true,
      "semester": "ב",
      "linked": [],
      "meetings": [
